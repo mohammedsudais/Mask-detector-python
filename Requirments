@@ -1,0 +1,19 @@
+Python 3.10.8
+
+Tensorflow
+keras
+imutils
+numpy
+opencv-python
+matplotlib
+scipy
+
+install other apps after python installation
+other apps installation command 
+pip install tensorflow
+pip install keras
+pip install imutils
+pip install numpy
+pip install opencv-python
+pip install matplotlib
+pip install scipy
